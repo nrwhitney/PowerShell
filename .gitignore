@@ -1,0 +1,3 @@
+# ignore transient files
+*.bat
+*.vbs
